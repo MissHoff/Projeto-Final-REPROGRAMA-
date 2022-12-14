@@ -1,0 +1,29 @@
+{
+  "name": "projeo",
+  "version": "1.0.0",
+  "description": "Projeto Final - Reprograma On19",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest ./src/test/api.test.js",
+    "lint": "npx eslint --fix ./testes-unitarios",
+    "start": "node server.js",
+    "swagger-autogen": "node swagger.js"
+  },
+  "author": "Aline Hoffmann",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.8.0",
+    "swagger-autogen": "^2.22.0",
+    "swagger-ui-express": "^4.6.0"
+  },
+  "devDependencies": {
+    "jest": "28.1.0",
+    "nodemon": "^2.0.20",
+    "supertest": "6.2.3"
+  }
+}
