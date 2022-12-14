@@ -1,7 +1,8 @@
-<p align="center">
-# <br> Projeto Final {reprograma} - Blog API
-## Este é projeto final da iniciativa TeT(Todas em Tech) do curso de Desenvolvedora Backend 
-  |Turma On19 da [{Reprograma}](https://www.reprograma.com.br/).
+
+# <br>Projeto Final - Blog API
+
+
+#### <br>Este é projeto final da iniciativa TeT(Todas em Tech) do curso de Desenvolvedora Backend |Turma On19 da [{Reprograma}](https://www.reprograma.com.br/).
 
 <p align="center">
 <img src= "https://reprograma.com.br/assets/img/reprograma-fundos-claros.png" width="50%" height="30%"/>
@@ -9,12 +10,13 @@
 
 Este projeto é uma API com CRUD completo que contém um banco de dados.
 
-## Objetivo
+
+ ## Objetivo  :writing_hand: :
 Projeto simples de um Blog que permite posts com título e conteúdo.
 
 <br>
 
- ## Rotas existentes neste projeto:
+ ## Rotas existentes neste projeto  :world_map: : 
 
 
 | Verbo  |   EndPoint      |        Descrição da Rota                   | Status | 
@@ -46,7 +48,7 @@ Projeto simples de um Blog que permite posts com título e conteúdo.
 | `swagger`    | Gera a documentação.|
 <br>
 
-Link para a documentação:
+## Link para a documentação:
 
 📝 [Swagger]
 
