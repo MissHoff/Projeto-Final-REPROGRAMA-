@@ -15,7 +15,7 @@ Projeto simples de um Blog que permite posts com título e conteúdo.
 ## Tecnologias e Dependências Utilizadas
 <br>
 | Ferramenta   | Descrição |
-| ----------   | --------- |
+| --- | --- |
 | `javascript` | Linguagem de programação. |
 | `node.js`    | Ambiente de execução do javascript.|
 | `express`    | Framework NodeJS. |
