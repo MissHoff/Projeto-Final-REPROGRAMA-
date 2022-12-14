@@ -1,5 +1,5 @@
 // const { Op } = require('sequelize');
-const { eventNames } = require("../app");
+
 const postCategory = require("../models/postCategory");
 
 
