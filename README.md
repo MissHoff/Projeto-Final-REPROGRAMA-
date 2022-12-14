@@ -14,8 +14,8 @@ Projeto simples de um Blog que permite posts com título e conteúdo.
 
 ## Tecnologias e Dependências Utilizadas
 <br>
-| Ferramenta | Descrição |
-| --- | --- |
+| Ferramenta   | Descrição |
+| ----------   | --------- |
 | `javascript` | Linguagem de programação. |
 | `node.js`    | Ambiente de execução do javascript.|
 | `express`    | Framework NodeJS. |
@@ -24,11 +24,11 @@ Projeto simples de um Blog que permite posts com título e conteúdo.
 | `npm ou yarn`| Gerenciador de pacotes.|
 | `MongoDb`    | Banco de dados não relacional orietado a documentos.|
 | `Mongo Atlas`| Interface gráfica para verificar se os dados foram persistidos.|
-| `Postman` | Interface gráfica para realizar os testes.|
-| `swagger`| Gera a documentação.|
+| `Postman`    | Interface gráfica para realizar os testes.|
+| `swagger`    | Gera a documentação.|
 
 <br>
 Link para a documentação:
-📝 [Swagger](https://enecrescer.herokuapp.com/documentacao-enecrescer/#/)
-📝 [Heroku](https://enecrescer.herokuapp.com/)
+📝 [Swagger]
+
 <br>
