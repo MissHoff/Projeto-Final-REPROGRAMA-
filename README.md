@@ -12,7 +12,7 @@ Este projeto é uma API com CRUD completo que contém um banco de dados.
 
 
  ## Objetivo  :writing_hand: :
-Projeto simples de um Blog que permite posts com título e conteúdo.
+Projeto simples de um Blog que permite posts com título e conteúdo. Futuramente será incluso autenticação e rotas para buscas mais precisas.
 
 <br>
 
@@ -50,6 +50,6 @@ Projeto simples de um Blog que permite posts com título e conteúdo.
 
 ## Link para a documentação:
 
-📝 [Swagger]
+📝 [Swagger](http://projeto-final-reprograma-7btb.onrender.com/minha-rota-de-documentacao/)
 
 <br>
